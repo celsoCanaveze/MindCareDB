@@ -1,0 +1,12 @@
+[
+  {"_id":1,"id_usuario":51,"humor":1,"observacao":"Mood sample 1","data_registro":"2025-11-21"},
+  {"_id":2,"id_usuario":52,"humor":2,"observacao":"Mood sample 2","data_registro":"2025-11-21"},
+  {"_id":3,"id_usuario":53,"humor":3,"observacao":"Mood sample 3","data_registro":"2025-11-21"},
+  {"_id":4,"id_usuario":54,"humor":4,"observacao":"Mood sample 4","data_registro":"2025-11-21"},
+  {"_id":5,"id_usuario":55,"humor":5,"observacao":"Mood sample 5","data_registro":"2025-11-21"},
+  {"_id":6,"id_usuario":56,"humor":6,"observacao":"Mood sample 6","data_registro":"2025-11-21"},
+  {"_id":7,"id_usuario":57,"humor":7,"observacao":"Mood sample 7","data_registro":"2025-11-21"},
+  {"_id":8,"id_usuario":58,"humor":8,"observacao":"Mood sample 8","data_registro":"2025-11-21"},
+  {"_id":9,"id_usuario":59,"humor":9,"observacao":"Mood sample 9","data_registro":"2025-11-21"},
+  {"_id":10,"id_usuario":60,"humor":10,"observacao":"Mood sample 10","data_registro":"2025-11-21"}
+]

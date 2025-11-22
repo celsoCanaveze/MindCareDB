@@ -1,0 +1,7 @@
+mongoimport --db mindcare --collection competencias --file competencias.json --jsonArray
+mongoimport --db mindcare --collection historico_mood --file historico_mood.json --jsonArray
+mongoimport --db mindcare --collection tarefa_competencia --file tarefa_competencia.json --jsonArray
+mongoimport --db mindcare --collection tarefas --file tarefas.json --jsonArray
+mongoimport --db mindcare --collection usuario_competencia --file usuario_competencia.json --jsonArray
+mongoimport --db mindcare --collection usuario_tarefa --file usuario_tarefa.json --jsonArray
+mongoimport --db mindcare --collection usuarios --file usuarios.json --jsonArray

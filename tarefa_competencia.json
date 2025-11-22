@@ -1,0 +1,22 @@
+[
+  {"_id":1,"id_tarefa":14,"id_competencia":27,"nivel_exigido":1},
+  {"_id":2,"id_tarefa":14,"id_competencia":29,"nivel_exigido":2},
+  {"_id":3,"id_tarefa":15,"id_competencia":28,"nivel_exigido":1},
+  {"_id":4,"id_tarefa":15,"id_competencia":30,"nivel_exigido":2},
+  {"_id":5,"id_tarefa":16,"id_competencia":29,"nivel_exigido":1},
+  {"_id":6,"id_tarefa":16,"id_competencia":26,"nivel_exigido":2},
+  {"_id":7,"id_tarefa":17,"id_competencia":30,"nivel_exigido":1},
+  {"_id":8,"id_tarefa":17,"id_competencia":27,"nivel_exigido":2},
+  {"_id":9,"id_tarefa":18,"id_competencia":26,"nivel_exigido":1},
+  {"_id":10,"id_tarefa":18,"id_competencia":28,"nivel_exigido":2},
+  {"_id":11,"id_tarefa":19,"id_competencia":27,"nivel_exigido":1},
+  {"_id":12,"id_tarefa":19,"id_competencia":29,"nivel_exigido":2},
+  {"_id":13,"id_tarefa":20,"id_competencia":28,"nivel_exigido":1},
+  {"_id":14,"id_tarefa":20,"id_competencia":30,"nivel_exigido":2},
+  {"_id":15,"id_tarefa":21,"id_competencia":29,"nivel_exigido":1},
+  {"_id":16,"id_tarefa":21,"id_competencia":26,"nivel_exigido":2},
+  {"_id":17,"id_tarefa":22,"id_competencia":30,"nivel_exigido":1},
+  {"_id":18,"id_tarefa":22,"id_competencia":27,"nivel_exigido":2},
+  {"_id":19,"id_tarefa":23,"id_competencia":26,"nivel_exigido":1},
+  {"_id":20,"id_tarefa":23,"id_competencia":28,"nivel_exigido":2}
+]

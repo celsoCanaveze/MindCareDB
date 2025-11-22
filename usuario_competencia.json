@@ -1,0 +1,22 @@
+[
+  {"_id":272,"id_usuario":71,"id_competencia":27,"nivel":2},
+  {"_id":273,"id_usuario":71,"id_competencia":28,"nivel":1},
+  {"_id":274,"id_usuario":72,"id_competencia":28,"nivel":3},
+  {"_id":275,"id_usuario":72,"id_competencia":29,"nivel":2},
+  {"_id":276,"id_usuario":73,"id_competencia":29,"nivel":1},
+  {"_id":277,"id_usuario":73,"id_competencia":30,"nivel":3},
+  {"_id":278,"id_usuario":74,"id_competencia":30,"nivel":2},
+  {"_id":279,"id_usuario":74,"id_competencia":26,"nivel":1},
+  {"_id":280,"id_usuario":75,"id_competencia":26,"nivel":3},
+  {"_id":281,"id_usuario":75,"id_competencia":27,"nivel":2},
+  {"_id":282,"id_usuario":76,"id_competencia":27,"nivel":1},
+  {"_id":283,"id_usuario":76,"id_competencia":28,"nivel":3},
+  {"_id":284,"id_usuario":77,"id_competencia":28,"nivel":2},
+  {"_id":285,"id_usuario":77,"id_competencia":29,"nivel":1},
+  {"_id":286,"id_usuario":78,"id_competencia":29,"nivel":3},
+  {"_id":287,"id_usuario":78,"id_competencia":30,"nivel":2},
+  {"_id":288,"id_usuario":79,"id_competencia":30,"nivel":1},
+  {"_id":289,"id_usuario":79,"id_competencia":26,"nivel":3},
+  {"_id":290,"id_usuario":80,"id_competencia":26,"nivel":2},
+  {"_id":291,"id_usuario":80,"id_competencia":27,"nivel":1}
+]
